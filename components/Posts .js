@@ -5,7 +5,7 @@ function Posts() {
         {
             "id": 1,
             "avatar": "https://www.citypng.com/public/uploads/preview/hd-man-user-illustration-icon-transparent-png-701751694974843ybexneueic.png",
-            "username": "subhash",
+            "username": "saurabh",
             "timestamp": "4 hours ago",
             "content": "this is all about the natures",
             "postimage": "https://thumbs.dreamstime.com/b/beautiful-rain-forest-ang-ka-nature-trail-doi-inthanon-national-park-thailand-36703721.jpg",
@@ -16,7 +16,7 @@ function Posts() {
         {
             "id": 1,
             "avatar": "https://www.citypng.com/public/uploads/preview/hd-man-user-illustration-icon-transparent-png-701751694974843ybexneueic.png",
-            "username": "subhash",
+            "username": "saurabh",
             "timestamp": "4 hours ago",
             "content": "this is all about the natures",
             "postimage": "https://static.vecteezy.com/system/resources/thumbnails/049/855/347/small_2x/nature-background-high-resolution-wallpaper-for-a-serene-and-stunning-view-photo.jpg",
@@ -27,7 +27,7 @@ function Posts() {
         {
             "id": 1,
             "avatar": "https://www.citypng.com/public/uploads/preview/hd-man-user-illustration-icon-transparent-png-701751694974843ybexneueic.png",
-            "username": "subhash",
+            "username": "saurabh",
             "timestamp": "4 hours ago",
             "content": "this is all about the natures",
             "postimage": "https://5.imimg.com/data5/SELLER/Default/2021/1/NJ/GN/AS/75393646/3d-waterfall-nature-wallpaper.jpg",
@@ -37,7 +37,7 @@ function Posts() {
         },{
             "id": 1,
             "avatar": "https://www.citypng.com/public/uploads/preview/hd-man-user-illustration-icon-transparent-png-701751694974843ybexneueic.png",
-            "username": "subhash",
+            "username": "saurabh",
             "timestamp": "4 hours ago",
             "content": "this is all about the natures",
             "postimage": "https://thumbs.dreamstime.com/b/beautiful-rain-forest-ang-ka-nature-trail-doi-inthanon-national-park-thailand-36703721.jpg",
